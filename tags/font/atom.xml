@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Tag: font | Chada.me]]></title>
+  <link href="http://chada.github.com/tags/font/atom.xml" rel="self"/>
+  <link href="http://chada.github.com/"/>
+  <updated>2012-12-29T16:11:24+08:00</updated>
+  <id>http://chada.github.com/</id>
+  <author>
+    <name><![CDATA[Chada]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[开始使用Octopress]]></title>
+    <link href="http://chada.github.com/blog/2012/11/16/first-blog-post/"/>
+    <updated>2012-11-16T07:32:00+08:00</updated>
+    <id>http://chada.github.com/blog/2012/11/16/first-blog-post</id>
+    <content type="html"><![CDATA[<p>算起来已经有快两年没有写过Blog了。</p>
+
+<p>从2004年开始，到2010年写了六年Blog，而后因为毕业开始工作，慢慢就懒得写。这一次，开始使用<strong><a href="http://octopress.org">Octopress</a></strong>。</p>
+
+<p><strong>Octopress</strong>是一个基于Jekyll的静态Blog Framework，采用Rails语言，无需数据库支持，并可快速部署到<strong><a href="http://github.com/">Github</a></strong>, <strong><a href="https://heroku.com/">Heroku</a></strong>或自建服务器上。目前本Blog部署在 <del>Heroku</del> Github 上。</p>
+
+<p><strong>Octopress</strong>使用Markdown语法发布文章，推荐使用<strong><a href="http://chenluois.com/">Chen Luo</a></strong>开发的Markdown所见即所得编辑器<strong><a href="http://mouapp.com/">MOU</a></strong>.</p>
+
+<p>关于Octopress的诸多好处，可见Xdite的文章(<a href="http://blog.xdite.net/posts/2011/10/07/what-is-octopress/">在这里</a>)。<br/>
+如果您想使用Octopress来作为您的Blog程式且使用Heroku服务，可以参考高见龙的文章(<a href="http://blog.eddie.com.tw/2011/10/11/how-to-install-octopress-on-heroku/">在这里</a>)。</p>
+
+<p>Octopress仅用来作为我个人站点的搭建程式，我仍然认为<strong><a href="http://wordpress.org/">WordPress</a></strong>是极讚的Blog Platform，并坚持使用它。</p>
+]]></content>
+  </entry>
+  
+</feed>
